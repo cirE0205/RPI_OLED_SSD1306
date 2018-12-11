@@ -100,10 +100,10 @@ font = ImageFont.load_default()
 
 # Alternatively load a TTF font.  Make sure the .ttf font file is in the same directory as the python script!
 # Some other nice fonts to try: http://www.dafont.com/bitmap.php
-font = ImageFont.truetype('Montserrat-Light.ttf', 12)
-font2 = ImageFont.truetype('fontawesome-webfont.ttf', 14)
-font_icon_big = ImageFont.truetype('fontawesome-webfont.ttf', 20)
-font_text_big = ImageFont.truetype('Montserrat-Medium.ttf', 19)
+font = ImageFont.truetype('Montserrat Light.ttf', 12)
+font2 = ImageFont.truetype('fontawesome webfont.ttf', 14)
+font_icon_big = ImageFont.truetype('fontawesome webfont.ttf', 20)
+font_text_big = ImageFont.truetype('Montserrat Medium.ttf', 19)
 
 while True:
 
